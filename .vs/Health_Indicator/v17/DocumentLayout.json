@@ -3,15 +3,23 @@
   "WorkspaceRootPath": "D:\\UnitiProjects\\Health_Indicator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D7E8E53-97E6-EC32-CF59-5A4ABCDE3E41}|Assembly-CSharp.csproj|d:\\unitiprojects\\health_indicator\\assets\\scripts\\healthui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D7E8E53-97E6-EC32-CF59-5A4ABCDE3E41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D7E8E53-97E6-EC32-CF59-5A4ABCDE3E41}|Assembly-CSharp.csproj|D:\\UnitiProjects\\Health_Indicator\\assets\\scripts\\smoothbarui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7E8E53-97E6-EC32-CF59-5A4ABCDE3E41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\smoothbarui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7E8E53-97E6-EC32-CF59-5A4ABCDE3E41}|Assembly-CSharp.csproj|D:\\UnitiProjects\\Health_Indicator\\assets\\scripts\\usualbarui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7E8E53-97E6-EC32-CF59-5A4ABCDE3E41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\usualbarui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7E8E53-97E6-EC32-CF59-5A4ABCDE3E41}|Assembly-CSharp.csproj|D:\\UnitiProjects\\Health_Indicator\\assets\\scripts\\textui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7E8E53-97E6-EC32-CF59-5A4ABCDE3E41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\textui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D7E8E53-97E6-EC32-CF59-5A4ABCDE3E41}|Assembly-CSharp.csproj|d:\\unitiprojects\\health_indicator\\assets\\scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D7E8E53-97E6-EC32-CF59-5A4ABCDE3E41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D7E8E53-97E6-EC32-CF59-5A4ABCDE3E41}|Assembly-CSharp.csproj|d:\\unitiprojects\\health_indicator\\assets\\scripts\\buttonshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D7E8E53-97E6-EC32-CF59-5A4ABCDE3E41}|Assembly-CSharp.csproj|D:\\UnitiProjects\\Health_Indicator\\assets\\scripts\\buttonshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D7E8E53-97E6-EC32-CF59-5A4ABCDE3E41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttonshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -27,6 +35,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "TextUI.cs",
+              "DocumentMoniker": "D:\\UnitiProjects\\Health_Indicator\\Assets\\Scripts\\TextUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TextUI.cs",
+              "ToolTip": "D:\\UnitiProjects\\Health_Indicator\\Assets\\Scripts\\TextUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TextUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T17:44:19.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsualBarUI.cs",
+              "DocumentMoniker": "D:\\UnitiProjects\\Health_Indicator\\Assets\\Scripts\\UsualBarUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UsualBarUI.cs",
+              "ToolTip": "D:\\UnitiProjects\\Health_Indicator\\Assets\\Scripts\\UsualBarUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UsualBarUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T17:42:59.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SmoothBarUI.cs",
+              "DocumentMoniker": "D:\\UnitiProjects\\Health_Indicator\\Assets\\Scripts\\SmoothBarUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SmoothBarUI.cs",
+              "ToolTip": "D:\\UnitiProjects\\Health_Indicator\\Assets\\Scripts\\SmoothBarUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SmoothBarUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T17:33:18.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ButtonsHandler.cs",
               "DocumentMoniker": "D:\\UnitiProjects\\Health_Indicator\\Assets\\Scripts\\ButtonsHandler.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonsHandler.cs",
@@ -34,33 +81,19 @@
               "RelativeToolTip": "Assets\\Scripts\\ButtonsHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T14:28:03.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-28T14:28:03.714Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Health.cs",
               "DocumentMoniker": "D:\\UnitiProjects\\Health_Indicator\\Assets\\Scripts\\Health.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Health.cs",
               "ToolTip": "D:\\UnitiProjects\\Health_Indicator\\Assets\\Scripts\\Health.cs",
               "RelativeToolTip": "Assets\\Scripts\\Health.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-28T14:25:42.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HealthUI.cs",
-              "DocumentMoniker": "D:\\UnitiProjects\\Health_Indicator\\Assets\\Scripts\\HealthUI.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthUI.cs",
-              "ToolTip": "D:\\UnitiProjects\\Health_Indicator\\Assets\\Scripts\\HealthUI.cs",
-              "RelativeToolTip": "Assets\\Scripts\\HealthUI.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADQAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T14:28:04.021Z",
               "EditorCaption": ""
             }
           ]
