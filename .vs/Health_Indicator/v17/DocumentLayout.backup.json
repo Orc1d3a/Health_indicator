@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnitiProjects\\Health_Indicator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7E8E53-97E6-EC32-CF59-5A4ABCDE3E41}|Assembly-CSharp.csproj|d:\\unitiprojects\\health_indicator\\assets\\scripts\\healthui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7E8E53-97E6-EC32-CF59-5A4ABCDE3E41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7E8E53-97E6-EC32-CF59-5A4ABCDE3E41}|Assembly-CSharp.csproj|d:\\unitiprojects\\health_indicator\\assets\\scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7E8E53-97E6-EC32-CF59-5A4ABCDE3E41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7E8E53-97E6-EC32-CF59-5A4ABCDE3E41}|Assembly-CSharp.csproj|d:\\unitiprojects\\health_indicator\\assets\\scripts\\buttonshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7E8E53-97E6-EC32-CF59-5A4ABCDE3E41}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttonshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ButtonsHandler.cs",
+              "DocumentMoniker": "D:\\UnitiProjects\\Health_Indicator\\Assets\\Scripts\\ButtonsHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonsHandler.cs",
+              "ToolTip": "D:\\UnitiProjects\\Health_Indicator\\Assets\\Scripts\\ButtonsHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ButtonsHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T14:28:03.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Health.cs",
+              "DocumentMoniker": "D:\\UnitiProjects\\Health_Indicator\\Assets\\Scripts\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Health.cs",
+              "ToolTip": "D:\\UnitiProjects\\Health_Indicator\\Assets\\Scripts\\Health.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Health.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T14:25:42.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HealthUI.cs",
+              "DocumentMoniker": "D:\\UnitiProjects\\Health_Indicator\\Assets\\Scripts\\HealthUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthUI.cs",
+              "ToolTip": "D:\\UnitiProjects\\Health_Indicator\\Assets\\Scripts\\HealthUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthUI.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T14:28:04.021Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
