@@ -4,8 +4,8 @@ public class ButtonsHandler : MonoBehaviour
 {
     [SerializeField] private Health _health;
 
-    private int damageValue = 5;
-    private int healValue = 11;
+    private int _damageValue = 5;
+    private int _healValue = 11;
 
     public void TakeDamage()
     {
