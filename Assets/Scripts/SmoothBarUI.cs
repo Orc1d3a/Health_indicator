@@ -36,7 +36,7 @@ public class SmoothBarUI : MonoBehaviour
         float speed = 0.25f;
         float target = _health.CurrentHealth / _health.MaxHealth;
 
-        while (Mathf.Abs(_slider.value - target) > 0.002f)
+        while (Mathf.Approximately(_slider.value, target) == false)
         {
             _slider.value = Mathf.MoveTowards(_slider.value, target, speed * Time.deltaTime);
 
