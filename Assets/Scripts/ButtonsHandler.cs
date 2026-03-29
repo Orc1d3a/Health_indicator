@@ -9,11 +9,11 @@ public class ButtonsHandler : MonoBehaviour
 
     public void TakeDamage()
     {
-        _health.TakeDamage(damageValue);
+        _health.TakeDamage(_damageValue);
     }
 
     public void Heal()
     {
-        _health.Heal(healValue);
+        _health.Heal(_healValue);
     }
 }
